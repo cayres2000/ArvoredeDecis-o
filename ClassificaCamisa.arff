@@ -1,0 +1,41 @@
+@RELATION ClassificaCamisa 
+@ATTRIBUTE altura integer
+@ATTRIBUTE torax integer
+@ATTRIBUTE tamanho {P,M,G} 
+@DATA
+63,45,P
+63,46,P
+63,47,P
+64,45,P
+64,46,P
+64,47,P
+65,45,P
+65,46,P
+65,47,P
+66,45,P
+66,46,P
+66,47,P
+67,48,M
+67,49,M
+67,50,M
+68,48,M
+68,49,M
+68,50,M
+69,48,M
+69,49,M
+69,50,M
+70,48,M
+70,49,M
+70,50,M
+71,51,G
+71,52,G
+71,53,G
+72,51,G
+72,52,G
+72,53,G
+73,51,G
+73,52,G
+73,53,G
+74,51,G
+74,52,G
+74,53,G
