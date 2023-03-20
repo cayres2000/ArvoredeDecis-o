@@ -1,4 +1,6 @@
 #pip install scikit-learn==1.0.2
+#Rodrigo de Souza Garcia R.A.:22.120.034-8
+#Vinicius Cayres Gago R.A.:22.120.034-8
 
 import pandas as pd
 import numpy as np
